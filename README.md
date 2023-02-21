@@ -39,8 +39,8 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - You can find the demo on netlify
-- I learned how a developer can adopt both flexbox and grid on the same projects. This projects help me alot to think on how to place my HTML codes correctly.
-- I gain alot experience using tailwind css to build this amazing page.
+- I learned how a developer could adopt flexbox and grid on the same projects. These projects help me a lot to think about how to place my HTML codes correctly.
+- I gain a lot of experience using Tailwind CSS to build this fantastic page.
 
 ### Built With
 
@@ -55,7 +55,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Acknowledgements
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
 - [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
@@ -63,4 +62,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - Website [your-website.com](https://{your-web-site-link})
 - GitHub [@powei55](https://{github.com/powei55})
 - Twitter [@powei55](https://{twitter.com/powei55})
+
 # my-gallery-master-tailwind
