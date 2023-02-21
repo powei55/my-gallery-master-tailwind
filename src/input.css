@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.image {
+    display: block;
+    object-fit: cover;
+    max-width: 100%;
+}
+
+
+
+
+
+
